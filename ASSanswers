@@ -1,3 +1,5 @@
+# SE_Day1
+#Part 1
 software engineering,is the organized application of engineering and computer science principles to the development, operation, and maintenance of software. It is the profession that is associated with the creation, design, testing, quality improvement, and maintenance of the application. It is the profession that involves designing, creating, testing, and maintaining software systems to meet specified prerequisites. In a technology-related industry, software engineering became an imperative thing to enable a software system to be reliable, efficient, scalable, and maintainable. With technology becoming part and parcel of every industry today, the demand for quality software has increased, hence making software engineering very critical in ensuring that the solution provided to the technological user's needs works accordingly.
 
 a. Major Events in the History of Software Engineering
@@ -65,7 +67,7 @@ System Testing: It is to test the system as one unit, checking on its entirety, 
 
 Acceptance Testing: This testing is done to show whether the software is able to meet the business requirements and is ready for the deployment stage. In most cases, the client or end-users have to carry out acceptance testing to validate the system's functionality.
 
-Part 2
+#Part 2
 
 Prompt Engineering and Its Key Role
 Prompt engineering is a process that involves the development of good input prompts and perfecting the same for effective interaction with the AI model, especially those like GPT that are essentially driven through natural language processing. The quality of the output is as good as the quality of the prompt entered. Clearly specifying what is required in a clear, concise, and well-structured format through the prompt will guide the AI toward generating more accurate and coherent responses.
